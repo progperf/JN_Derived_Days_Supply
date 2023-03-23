@@ -112,7 +112,7 @@ fusepy==3.0.1
 #HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 #html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
 humanfriendly==10.0
-idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+#idna @ file:///tmp/build/80754af9/idna_1622654382723/work
 #imagecodecs @ file:///C:/ci/imagecodecs_1635511087451/work
 #imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 #imagesize @ file:///Users/ktietz/demo/mc3/conda-bld/imagesize_1628863108022/work
